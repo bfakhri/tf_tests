@@ -1,5 +1,8 @@
 # MNIST Data Directory
-MNIST/*
+MNIST_data/*
+
+# Log Directory
+logs/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
